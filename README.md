@@ -1,4 +1,4 @@
-# Data-Analaysis-of-Amazon-Prime-using-Tableau
+# Data-Analysis-of-Amazon-Prime-using-Tableau
 This project aims toward data analysis of Amazon Prime using Tableau.
 
 Getting fimilar with platform Tableau, we created a Dashboard that would help us to analysis Amazon Prime data like the number of movies and tv shows released over the years, the total number of movies and tv shows present on Amazon Prime, number of movies and tv shows of each rating etc.
